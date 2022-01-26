@@ -1,0 +1,19 @@
+proxies:
+- name: LAX-QuadraNet
+  type: snell
+  server: sha.diao.jimosaofu.xyz
+  port: 8443
+  psk: WoHaoKuaiLeA
+  version: 1
+  obfs-opts:
+    mode: tls
+    host: mirrorn.centos.org
+- name: LAX-Hammar
+  type: snell
+  server: sha.bi.jimosaofu.xyz
+  port: 8443
+  psk: WoHaoKuaiLeA
+  version: 1
+  obfs-opts:
+    mode: tls
+    host: mirrorn.centos.org
