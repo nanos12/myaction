@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,東京熱
-http://45.11.92.170/play/smart/xziptv.php?id=416
-#EXTINF:-1,HOT
-http://45.11.92.170/play/smart/xziptv.php?id=407
-#EXTINF:-1,happy
-http://45.11.92.170/play/smart/xziptv.php?id=412
-#EXTINF:-1,驚豔台
-http://45.11.92.170/play/smart/xziptv.php?id=409
-#EXTINF:-1,红松
-rtmp://v3948069e.live.126.net/live/fhwwjopytvknbxxykhs
 #EXTINF:-1,看到爽
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,HAPPY
