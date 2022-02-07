@@ -1,0 +1,61 @@
+proxies:
+  - {name: A新加坡 |Basic|01|默认, server: 1.kr.zz.xxxxx.x-t-fuckword.network, port: 36676, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.kr.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: A美国|默认|00|百兆, server: 1.6.1.fuckppppp.today, port: 49127, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.6.fuckppppp.today, skip-cert-verify: false}
+  - {name: 俄罗斯 |Pro|1|百兆, server: word.2.fuckword.club, port: 47532, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.in.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 台湾 |Basic|01|百兆, server: 1.sg.zz.xxxxx.x-t-fuckword.network, port: 36674, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.sg.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 台湾 |Pro|01|200M, server: tw1.v3.zz.cn.fuckword.club, port: 49111, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: tw1.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 台湾 |Pro|02|IEPL, server: 1.tw.zz.xxxxx.x-t-fuckword.network, port: 53137, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 台湾 |Pro|03|500M, server: 2.tw.zz.xxxxx.x-t-fuckword.network, port: 49484, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.tw.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: "土耳其 |Pro|01|IEPL\t", server: 4.game.speed.zz.001.oooooooooo.icu, port: 25842, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 新加坡 |Pro|01|千兆, server: sg1.v3.zz.cn.fuckword.club, port: 47533, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: sg1.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 新加坡 |Pro|02|千兆, server: sg2.v3.zz.cn.fuckword.club, port: 47534, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: sg2.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 新加坡 |Pro|03|IEPL支持Netflix, server: word.13.1.fuckword.club, port: 53127, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 新加坡 |Pro|04|IEPL支持Netflix, server: 2.game.speed.zz.001.oooooooooo.icu, port: 53945, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 日本 |Basic|1|IEPL, server: 5.jp.zz.xxxxx.x-t-fuckword.network, port: 48752, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 日本 |Pro|1|原生, server: word.2.fuckword.club, port: 36678, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 4.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 日本 |Pro|2|原生, server: word.2.fuckword.club, port: 47831, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: jp1.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 日本 |Pro|3|千兆, server: word.2.fuckword.club, port: 48751, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: word.2.2.fuckword.club, skip-cert-verify: false}
+  - {name: 日本 |Pro|4|IEPL, server: word.12.1.fuckword.club, port: 48744, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 日本|Pro+|01|IPLC游戏专线, server: 2.9.0.fuckppppp.today, port: 53942, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 法国 |Pro|1|中继, server: fr1.v3.zz.cn.fuckword.club, port: 47606, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: fr1.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 澳门 |Pro|01|IEPL, server: 1.mo.zz.xxxxx.x-t-fuckword.network, port: 53943, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: "美国 |Basic+|01|IEPL支持Netflix\t", server: 1.game.speed.zz.001.oooooooooo.icu, port: 53944, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 美国 |Basic|01|百兆, server: us1.v2.zz.cn.fuckword.club, port: 47602, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: us1.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 美国 |Basic|02|百兆, server: word.4.1.fuckword.club, port: 49121, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: word.4.fuckword.club, skip-cert-verify: false}
+  - {name: 美国 |Basic|03|百兆, server: 3.6.1.fuckppppp.today, port: 49125, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 3.6.fuckppppp.today, skip-cert-verify: false}
+  - {name: 美国 |Basic|04|原生, server: 3.4.1.fuckppppp.today, port: 49126, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 3.4.fuckppppp.today, skip-cert-verify: false}
+  - {name: 美国 |Pro+|01|IEPL支持Netflix, server: word.14.1.fuckword.club, port: 48861, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 美国 |Pro|01|千兆, server: 1.us.zz.xxxxx.x-t-fuckword.network, port: 36677, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.us.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 美国 |Pro|02|千兆, server: us4.v2.zz.cn.fuckword.club, port: 23009, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: us4.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 美国 |Pro|03|IEPL原生, server: us2.v3.zz.cn.fuckword.club, port: 58420, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 英国 |Pro|01|IEPL, server: 3.8.1.fuckppppp.today, port: 53125, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 阿根廷|Pro|1|中继, server: ar2.v3.zz.cn.fuckword.club, port: 49112, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: ar2.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 韩国 |Pro|01|IEPL, server: 2.1.1.fuckppppp.today, port: 53126, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Basic|01|百兆, server: 6.hk.zz.xxxxx.x-t-fuckword.network, port: 49120, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 6.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Basic|02|动态, server: 2.hk.zz.xxxxx.x-t-fuckword.network, port: 35419, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Basic|03|百兆, server: hk1.v2.zz.cn.fuckword.club, port: 49511, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: hk1.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Basic|04|IEPL, server: 1.hk.zz.xxxxx.x-t-fuckword.network, port: 36672, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Basic|05|百兆, server: hk2.v2.zz.cn.fuckword.club, port: 49112, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: hk2.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Basic|06|百兆, server: word.1.1.fuckword.club, port: 50001, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: word.1.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Basic|07|百兆, server: 2.7.1.fuckppppp.today, port: 50002, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.7.fuckppppp.today, skip-cert-verify: false}
+  - {name: 香港 |Basic|08|IEPL, server: word.18.fuckword.club, port: 58417, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Basic|09|IEPL, server: 4.3.1.fuckppppp.today, port: 58418, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Basic|10|百兆, server: 3.jp.zz.xxxxx.x-t-fuckword.network, port: 36675, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 3.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Basic|11|百兆, server: gb1.v2.zz.cn.fuckword.club, port: 47836, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: gb1.v2.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Basic|12|百兆, server: 2.jp.zz.xxxxx.x-t-fuckword.network, port: 36671, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.jp.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Pro|01|BGP, server: 2.8.1.fuckppppp.today, port: 20000, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.8.fuckppppp.today, skip-cert-verify: false}
+  - {name: 香港 |Pro|02|千兆, server: word.10.1.fuckword.club, port: 20001, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: word.10.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Pro|03|BGP, server: 3.hk.zz.xxxxx.x-t-fuckword.network, port: 36681, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 3.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Pro|04|IEPL, server: 4.hk.zz.xxxxx.x-t-fuckword.network, port: 36676, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Pro|05|动态, server: 1.5.1.fuckppppp.today, port: 50010, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 1.5.fuckppppp.today, skip-cert-verify: false}
+  - {name: 香港 |Pro|06|千兆, server: hk1.v3.zz.cn.fuckword.club, port: 47605, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: hk1.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Pro|07|千兆, server: hk2.v3.zz.cn.fuckword.club, port: 47835, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: hk2.v3.ld.cn.fuckword.club, skip-cert-verify: false}
+  - {name: 香港 |Pro|08|BGP, server: 3.sg.zz.xxxxx.x-t-fuckword.network, port: 36679, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 3.sg.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Pro|09|BGP, server: 5.hk.zz.xxxxx.x-t-fuckword.network, port: 36690, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 5.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港 |Pro|10|千兆, server: 2.3.1.fuckppppp.today, port: 50000, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: 2.3.fuckppppp.today, skip-cert-verify: false}
+  - {name: 香港 |Pro|11|IEPL, server: 7.hk.zz.xxxxx.x-t-fuckword.network, port: 58416, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港 |Pro|12|千兆, server: hkt01.hk.zz.xxxxx.x-t-fuckword.network, port: 56812, type: trojan, password: ecf10946-ea50-3114-8ada-77ec88de5cc6, sni: hkt01.hk.ld.xxxxx.x-t-fuckword.link, skip-cert-verify: false}
+  - {name: 香港|Basic|01|IEPL, server: 2.sg.zz.xxxxx.x-t-fuckword.network, port: 60301, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港|Pro+|01|IPLC游戏专线, server: iplc-9-8-7-6-5-4-3-2-1.001.zz.fuckword.club, port: 53941, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 香港|Pro|01|IEPL, server: 3.2.1.fuckppppp.today, port: 60302, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
+  - {name: 马来西亚 |Pro|01|IEPL, server: 3.game.speed.zz.001.oooooooooo.icu, port: 25841, type: vmess, uuid: ecf10946-ea50-3114-8ada-77ec88de5cc6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true}
