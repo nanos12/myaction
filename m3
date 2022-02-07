@@ -35,3 +35,5 @@ http://live.redtraffic.xyz:80/bigdick.m3u8
 http://live.redtraffic.xyz:80/pornstar.m3u8
 #EXTINF:-1,香蕉台欧美版
 http://live.redtraffic.xyz:80/milf.m3u8
+#EXTINF:-1,livecams
+http://cdn.adultiptv.net/livecams.m3u8 
