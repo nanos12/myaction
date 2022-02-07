@@ -23,3 +23,15 @@ rtmp://125.227.196.250:1935/live/AmazingTaiwan
 rtmp://125.227.196.250:1935/live/Kchannel
 #EXTINF:-1,JSTAR极限台
 rtmp://125.227.196.250:1935/live/JSTAR
+#EXTINF:-1,松视1欧美版
+http://live.redtraffic.xyz:80/fetish.m3u8
+#EXTINF:-1,松视2欧美版
+http://live.redtraffic.xyz:80/interracial.m3u8
+#EXTINF:-1,松视3欧美版
+http://live.redtraffic.xyz:80/bigtits.m3u8
+#EXTINF:-1,松视4欧美版
+http://live.redtraffic.xyz:80/bigdick.m3u8
+#EXTINF:-1,潘多拉欧美版
+http://live.redtraffic.xyz:80/pornstar.m3u8
+#EXTINF:-1,香蕉台欧美版
+http://live.redtraffic.xyz:80/milf.m3u8
