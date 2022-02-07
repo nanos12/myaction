@@ -23,5 +23,3 @@ rtmp://125.227.196.250:1935/live/AmazingTaiwan
 rtmp://125.227.196.250:1935/live/Kchannel
 #EXTINF:-1,JSTAR极限台
 rtmp://125.227.196.250:1935/live/JSTAR
-#EXTINF:-1,WONIUZFB
-https://cdn4.woniuzfb.com/live/tvbhk_j2/BvLqtnYn.m3u8
