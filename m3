@@ -6,11 +6,11 @@ rtmp://125.227.196.250:1935/live/HAPPY
 #EXTINF:-1,松视一台
 rtmp://125.227.196.250:1935/live/PineVision1
 #EXTINF:-1,松视二台
-rtmp://125.227.196.250:1935/live/PineVision2
+https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1,松视三台
-rtmp://125.227.196.250:1935/live/PineVision3
+https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
 #EXTINF:-1,完美台
-rtmp://125.227.196.250:1935/live/PandoraPlays
+https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 #EXTINF:-1,粉红台
 rtmp://125.227.196.250:1935/live/PandoraPink
 #EXTINF:-1,香蕉台
