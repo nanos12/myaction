@@ -1,0 +1,23 @@
+﻿port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - {name: 香港HGC, server: hgc1.tcpbbr.net, port: 443, type: trojan, password: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, sni: hgc1.tcpbbr.net, skip-cert-verify: true, udp: true}
+  - {name: 香港HKBN, server: hkbn2.tcpbbr.net, port: 80, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: broadcastlv.chat.bilibili.com}, udp: true}
+  - {name: 香港HKT, server: hkt.comefromchinatown.com, port: 80, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: broadcastlv.chat.bilibili.com}, udp: true}
+  - {name: 香港WTT, server: ssl.tcpbbr.net, port: 443, type: trojan, password: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, sni: ssl.tcpbbr.net, skip-cert-verify: true, udp: true}
+  - {name: 香港WTT2, server: wtt2.comefromchinatown.com, port: 80, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: images-eu.ssl-images-amazon.com}, udp: true}
+  - {name: 香港WTT3, server: wtt3.comefromchinatown.com, port: 80, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: images-eu.ssl-images-amazon.com}, udp: true}
+  - {name: 香港WTT4, server: wtt.tcpbbr.net, port: 443, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 香港綜合, server: hk.tcpbbr.net, port: 8388, type: vmess, uuid: 08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 香港HGC2, server: hgc1.tcpbbr.net, port: 443, type: trojan, password: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, sni: hgc1.tcpbbr.net, skip-cert-verify: true, udp: true}
+  - {name: 香港HKBN2, server: hkbn2.tcpbbr.net, port: 80, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: broadcastlv.chat.bilibili.com}, udp: true}
+  - {name: 香港HKT2, server: hkt.comefromchinatown.com, port: 80, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: broadcastlv.chat.bilibili.com}, udp: true}
+  - {name: 香港WTT22, server: ssl.tcpbbr.net, port: 443, type: trojan, password: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, sni: ssl.tcpbbr.net, skip-cert-verify: true, udp: true}
+  - {name: 香港WTT222, server: wtt2.comefromchinatown.com, port: 80, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: images-eu.ssl-images-amazon.com}, udp: true}
+  - {name: 香港WTT32, server: wtt3.comefromchinatown.com, port: 80, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: images-eu.ssl-images-amazon.com}, udp: true}
+  - {name: 香港WTT42, server: wtt.tcpbbr.net, port: 443, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+  - {name: 香港綜合2, server: hk.tcpbbr.net, port: 8388, type: vmess, uuid: f5b1452c-1837-11eb-a8bf-f23c91cfbbc9, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
