@@ -4,11 +4,13 @@ https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,HAPPY
 rtmp://125.227.196.250:1935/live/HAPPY
 #EXTINF:-1,松视一台
-rtmp://125.227.196.250:1935/live/PineVision1
+https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
 #EXTINF:-1,松视二台
 https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
 #EXTINF:-1,松视三台
 https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+#EXTINF:-1,松视四台
+https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
 #EXTINF:-1,完美台
 https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 #EXTINF:-1,粉红台
