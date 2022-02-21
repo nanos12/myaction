@@ -1,64 +1,64 @@
 proxies:
-  - {name: 🇭🇰 A-香港HKBN, server: cm.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇭🇰 A-香港HKT, server: pccw.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇯🇵 A-东京BGP, server: jp.stunnel.vip, port: 6300, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇬🇧 A-London, server: uk.gotochinatown.net, port: 10882, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇹🇼 A-台湾高QoS, server: tw.gotochinatown.net, port: 10881, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇮🇳 A-孟买, server: in.gotochinatown.net, port: 10884, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇯🇵 A-日本大阪, server: jpl.gotochinatown.net, port: 10888, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇳🇿 A-奥克兰, server: nz.gotochinatown.net, port: 10920, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇫🇷 A-巴黎, server: fr.gotochinatown.net, port: 10910, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇦🇺 A-悉尼, server: au.gotochinatown.net, port: 10930, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇩🇪 A-慕尼黑, server: de.gotochinatown.net, port: 10887, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇺🇸 A-圣荷西, server: us1.gotochinatown.net, port: 10881, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}
-  - {name: 🇺🇸 A-西雅图, server: us3.gotochinatown.net, port: 10887, type: http, username: yaojiayu246@gmail.com, password: 33a6e7b02dcc6f79ffae792369085774, tls: true}  
-  - {name: 🇭🇰 A-HKBGP, server: pccw.stunnel.vip, port: 4700, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇹🇼 A-台湾, server: tw.gotochinatown.net, port: 10881, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇮🇳 A-印度, server: in.gotochinatown.net, port: 10884, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇳🇿 A-新西兰, server: nz.gotochinatown.net, port: 10920, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇦🇺 A-澳大利亚, server: au.gotochinatown.net, port: 10930, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇬🇧 A-英国, server: uk.gotochinatown.net, port: 10882, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇩🇪 A-德国, server: de.gotochinatown.net, port: 10887, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇫🇷 A-法国, server: fr.gotochinatown.net, port: 10910, type: http, username: yaojiayu246@gmail.com, password: 73a4ff1c-85c8-11ea-82ef-f23c9164ca5d, tls: true}
-  - {name: 🇭🇰 B-香港HKBN, server: cm.stunnel.vip, port: 4700, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇭🇰 B-香港HKT, server: pccw.stunnel.vip, port: 4700, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇯🇵 B-东京BGP, server: jp.stunnel.vip, port: 6300, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇯🇵 B-日本大阪, server: jpl.gotochinatown.net, port: 10888, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}  
-  - {name: 🇺🇸 B-圣荷西, server: us1.gotochinatown.net, port: 10881, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇺🇸 B-西雅图, server: us3.gotochinatown.net, port: 10887, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}    
-  - {name: 🇹🇼 B-台湾高QoS, server: tw.gotochinatown.net, port: 10881, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}  
-  - {name: 🇮🇳 B-孟买, server: in.gotochinatown.net, port: 10884, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇳🇿 B-奥克兰, server: nz.gotochinatown.net, port: 10920, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇦🇺 B-悉尼, server: au.gotochinatown.net, port: 10930, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇬🇧 B-London, server: uk.gotochinatown.net, port: 10882, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇩🇪 B-慕尼黑, server: de.gotochinatown.net, port: 10887, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}
-  - {name: 🇫🇷 B-巴黎, server: fr.gotochinatown.net, port: 10910, type: http, username: 328206393@qq.com, password: f14f248af0320d4ef2799357db25f9fe, tls: true}  
-  - {name: 🇭🇰 B-HKBGP, server: pccw.stunnel.vip, port: 4700, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇹🇼 B-台湾, server: tw.gotochinatown.net, port: 10881, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇮🇳 B-印度, server: in.gotochinatown.net, port: 10884, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇳🇿 B-新西兰, server: nz.gotochinatown.net, port: 10920, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇦🇺 B-澳大利亚, server: au.gotochinatown.net, port: 10930, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇬🇧 B-英国, server: uk.gotochinatown.net, port: 10882, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇩🇪 B-德国, server: de.gotochinatown.net, port: 10887, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇫🇷 B-法国, server: fr.gotochinatown.net, port: 10910, type: http, username: 328206393@qq.com, password: 4c3ba552-174e-11ec-a8bf-f23c91cfbbc9, tls: true} 
-  - {name: 🇭🇰AA-香港HKBN, server: cm.stunnel.vip, port: 4700, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇭🇰AA-香港HKT, server: pccw.stunnel.vip, port: 4700, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇯🇵AA-东京BGP, server: jp.stunnel.vip, port: 6300, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇬🇧AA-London, server: uk.gotochinatown.net, port: 10882, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇹🇼AA-台湾高QoS, server: tw.gotochinatown.net, port: 10881, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇮🇳AA-孟买, server: in.gotochinatown.net, port: 10884, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇯🇵AA-日本大阪, server: jpl.gotochinatown.net, port: 10888, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇳🇿AA-奥克兰, server: nz.gotochinatown.net, port: 10920, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇫🇷AA-巴黎, server: fr.gotochinatown.net, port: 10910, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇦🇺AA-悉尼, server: au.gotochinatown.net, port: 10930, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇩🇪AA-慕尼黑, server: de.gotochinatown.net, port: 10887, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇺🇸AA-圣荷西, server: us1.gotochinatown.net, port: 10881, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇺🇸AA-西雅图, server: us3.gotochinatown.net, port: 10887, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}  
-  - {name: 🇭🇰AA-HKBGP, server: pccw.stunnel.vip, port: 4700, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇹🇼AA-台湾, server: tw.gotochinatown.net, port: 10881, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇮🇳AA-印度, server: in.gotochinatown.net, port: 10884, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇳🇿AA-新西兰, server: nz.gotochinatown.net, port: 10920, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇦🇺AA-澳大利亚, server: au.gotochinatown.net, port: 10930, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇬🇧AA-英国, server: uk.gotochinatown.net, port: 10882, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇩🇪AA-德国, server: de.gotochinatown.net, port: 10887, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
-  - {name: 🇫🇷AA-法国, server: fr.gotochinatown.net, port: 10910, type: http, username: 2068459124@qq.com, password: 8cccbc36-4355-11ec-a8bf-f23c91cfbbc9, tls: true}
+  - {name: 01(SS)1G带宽原生IP解锁奈飞, server: tw01.170809.xyz, port: 52370, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01深港隧道中转(SS)1G带宽原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16002, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01广州移动中转(SS)1G带宽原生IP解锁奈飞, server: gy01.170809.xyz, port: 13017, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01AZ三网优化中转(SS)1G带宽原生IP解锁奈飞, server: az01.170809.xyz, port: 12001, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02(SS)1G带宽原生IP解锁奈飞, server: tw02.170809.xyz, port: 52369, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02深港隧道中转(SS)1G带宽原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16003, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02广州移动中转(SS)1G带宽原生IP解锁奈飞, server: gy01.170809.xyz, port: 13002, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03(SS)1G带宽原生IP解锁奈飞, server: tw03.170809.xyz, port: 45678, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03AZ三网优化中转(SS)1G带宽原生IP解锁奈飞, server: az01.170809.xyz, port: 12002, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03广州移动中转(SS)1G带宽原生IP解锁奈飞, server: gy01.170809.xyz, port: 13005, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04(SS)1G带宽原生IP解锁奈飞, server: tw04.170809.xyz, port: 52338, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04深港隧道中转(SS)1G带宽原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16004, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04AZ三网优化中转(SS)1G带宽原生IP解锁奈飞, server: azf2s02.170809.xyz, port: 18004, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04广州移动中转(SS)1G带宽, server: gy01.170809.xyz, port: 13001, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 05(SS)原生IP解锁奈飞, server: tw05.170809.xyz, port: 10007, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 05(SS)深港隧道中转原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16001, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03|OC(SS)1G带宽, server: 0a01f3ad01.170809.xyz, port: 46524, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03|深港隧道中转OC(SS)1G带宽, server: azf2s.170809.xyz, port: 16005, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03|广州移动中转OC(SS)1G带宽, server: gy01.170809.xyz, port: 13000, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|OC(SS)1G带宽, server: sgmax04.170809.xyz, port: 43526, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|OC(SS)深港隧道移动中转1G带宽, server: azf2s.170809.xyz, port: 16006, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|OC(SS)广州移动中转1G带宽, server: gy01.170809.xyz, port: 13003, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|LIN1G带宽, server: sgmax02.170809.xyz, port: 32542, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 08|LIN(SS)1G带宽, server: sgmax08.170809.xyz, port: 35232, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01|AWS(SS)1G带宽, server: 054f7f9bc4.170809.xyz, port: 43453, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01|广州移动中转(SS)1G带宽, server: gy01.170809.xyz, port: 13014, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01|联通AWS(SS)1G带宽, server: jpmax01.170809.xyz, port: 46676, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|AWS1G带宽(SS), server: jp02.170809.xyz, port: 46764, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|联通AWS(SS)1G带宽, server: jpmax02.170809.xyz, port: 46676, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|AZ三网优化中转AWS1G带宽(SS), server: azf2s.170809.xyz, port: 16007, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|联通AWS1G带宽(SS), server: jp04.170809.xyz, port: 35621, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 05|联通AWS1G带宽(SS), server: jp05.170809.xyz, port: 34512, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01|(SS)1G带宽, server: jp01.170809.xyz, port: 32412, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 01|Trojan1G带宽, server: jp01.170809.xyz, port: 444, type: trojan, password: c6024e68-12ad-451d-92cd-ce686ac447a9, sni: jp01.170809.xyz, skip-cert-verify: false}
+  - {name: 01|1G带宽, server: jp01.170809.xyz, port: 32446, type: vmess, uuid: c6024e68-12ad-451d-92cd-ce686ac447a9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: jp01.170809.xyz}}}
+  - {name: 13|广州移动中转HGC(SS)1G带宽, server: azf2s02.170809.xyz, port: 18002, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 13|AZ三网优化中转HGC(SS)1G带宽, server: az01.170809.xyz, port: 12003, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03|AZ(SS), server: hkmax03.170809.xyz, port: 48567, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 08|AZ(SS), server: hkmax08.170809.xyz, port: 26616, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 06|AZ(SS), server: 783af846b4.170809.xyz, port: 54623, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 06|深港隧道中转AZ(SS), server: azf2s02.170809.xyz, port: 18003, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 15|AZ(SS), server: hkmax15.170809.xyz, port: 43552, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 16|AWS(SS), server: hkmax16.170809.xyz, port: 45345, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 16|AZ三网优化中转AWS(SS), server: azf2s02.170809.xyz, port: 18001, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|AZ(SS), server: hkmax04.170809.xyz, port: 23456, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 10|AZ(SS), server: hkmax10.170809.xyz, port: 34543, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 10|广州移动中转AZ(SS), server: gy01.170809.xyz, port: 13016, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 12|AZ(SS), server: hkmax12.170809.xyz, port: 21237, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 12|广州移动中转AWS(SS), server: gy01.170809.xyz, port: 13018, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|RN(SS), server: us02.170809.xyz, port: 12334, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 02|广州移动中转RN(SS), server: gy01.170809.xyz, port: 13008, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 03|RN(SS), server: us03.170809.xyz, port: 32165, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 04|RN(SS), server: us04.170809.xyz, port: 35662, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 05|AZ三网优化中转RN(SS), server: az01.170809.xyz, port: 12006, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 09|AZ(SS), server: hkmax09.170809.xyz, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 10|AZ(SS), server: hk10.170809.xyz, port: 15660, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 11|AZ(SS), server: hk11.170809.xyz, port: 32516, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 12|AZ(SS), server: 14e1b600b1.170809.xyz, port: 56453, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 13|AZ(SS), server: hk13.170809.xyz, port: 31666, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 14|AZ(SS), server: hk14.170809.xyz, port: 34552, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 15|AZ(SS), server: hk15.170809.xyz, port: 56453, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 16|AWS(SS), server: hk16.170809.xyz, port: 42365, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
+  - {name: 16|AZ三网优化中转AWS(SS), server: azf2s02.170809.xyz, port: 18005, type: ss, cipher: chacha20-ietf-poly1305, password: c6024e68-12ad-451d-92cd-ce686ac447a9}
