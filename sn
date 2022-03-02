@@ -2,7 +2,7 @@ proxies:
 - name: LAX-QuadraNet
   type: snell
   server: sha.diao.jimosaofu.xyz
-  port: 8443
+  port: 22053
   psk: WoHaoKuaiLeA
   version: 3
   obfs-opts:
@@ -11,7 +11,7 @@ proxies:
 - name: LAX-Hammar
   type: snell
   server: sha.bi.jimosaofu.xyz
-  port: 8443
+  port: 22053
   psk: WoHaoKuaiLeA
   version: 3
   obfs-opts:
