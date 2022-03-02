@@ -25,4 +25,35 @@ proxies:
   obfs-opts:
     mode: http
     host: m.mobilelegends.com
+# Snell
+  - name: "🏠 𝐻𝑜𝑚𝑒"
+    type: snell
+    server: www.spades-2.com
+    port: 13254
+    psk: UcB6yL3KOEIu6ZjR
+    # version: 2
+    obfs-opts:
+      mode: tls
+      host: www.spades-2.icu
 
+  # Snell
+  - name: "🇭🇰 𝐴𝑙𝑖𝑦𝑢𝑛 𝑠𝑛𝑒𝑙𝑙 8"
+    type: snell
+    server: www.spades-2.icu
+    port: 13254
+    psk: m5IsoC9wPFIThSKo
+    # version: 2
+    obfs-opts:
+      mode: tls
+      host: www.spades-2.icu
+
+  # Snell
+  - name: "🇭🇰 𝑇𝑒𝑛𝑐𝑒𝑛𝑡 𝑠𝑛𝑒𝑙𝑙 101"
+    type: snell
+    server: qte.spades-2.icu
+    port: 13254
+    psk: 22h4UcREHWHvMHRp
+    # version: 2
+    obfs-opts:
+      mode: tls
+      host: www.spades-2.icu
