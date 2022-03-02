@@ -17,3 +17,11 @@ proxies:
   obfs-opts:
     mode: tls
     host: mirrorn.centos.org
+- name: "⛅SNELL-MLBB"
+  type: snell
+  server: tunnel.hostip.co
+  port: 12345
+  psk: wOOPnkk38f8UKZu92Dz2XC5rFB58A5M
+  obfs-opts:
+    mode: http
+    host: m.mobilelegends.com
