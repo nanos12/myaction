@@ -5,8 +5,8 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"name":"剩余流量：81_65%2TB_1","server":"www.google.com","port":1,"type":"ssr","password":"breakwall","cipher":"rc4-md","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
-  - {"name":"过期时间：2022-03-2201:46:41_2","server":"www.google.com","port":1,"type":"ssr","password":"breakwall","cipher":"rc4-md","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+  - {"name":"剩余流量：81_65%2TB_1","server":"www.google.com","port":1,"type":"ssr","password":"breakwall","cipher":"rc4-md5","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
+  - {"name":"过期时间：2022-03-2201:46:41_2","server":"www.google.com","port":1,"type":"ssr","password":"breakwall","cipher":"rc4-md5","protocol":"auth_chain_a","obfs":"tls1.2_ticket_auth"}
   - {"name":"HK1_3","server":"iepl1.ggboynextdoor.best","port":65115,"type":"ssr","password":"lGBMNO","cipher":"rc4-md5","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth","protocol-param":"4173:OrUbgB","obfs-param":"9f7c44173.download.windowsupdate.com"}
   - {"name":"俄罗斯A_4","server":"cnru.ggboynextdoor.best","port":49045,"type":"ssr","password":"lGBMNO","cipher":"rc4-md5","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth","protocol-param":"4173:OrUbgB","obfs-param":"9f7c44173.download.windowsupdate.com"}
   - {"name":"俄罗斯B_5","server":"mmwagahk.ggboynextdoor.best","port":49049,"type":"ssr","password":"lGBMNO","cipher":"rc4-md5","protocol":"auth_aes128_md5","obfs":"tls1.2_ticket_auth","protocol-param":"4173:OrUbgB","obfs-param":"9f7c44173.download.windowsupdate.com"}
