@@ -9,7 +9,7 @@ proxies:
   - {"name":"🇯🇵AzureCloudflare_2","server":"cdn5.xiaokuqwq.xyz","port":8443,"type":"vmess","uuid":"c22fa311-2ba9-4f63-f5c9-808e24d3dcfc","alterId":"0","cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn5.xiaokuqwq.xyz"}}}
   - {"name":"🇯🇵VultrCloudflare_3","server":"cdn2.xiaokuqwq.xyz","port":8443,"type":"vmess","uuid":"9990ef3e-6e9d-4ea2-9cb6-7b8ec80d4cc4","alterId":"0","cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn2.xiaokuqwq.xyz"}}}
   - {"name":"🇯🇵AWSCloudflare_4","server":"cdn1.xiaokuqwq.xyz","port":443,"type":"vmess","uuid":"4fe720ec-578c-4878-fcb1-27a60a35237d","alterId":"0","cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn1.xiaokuqwq.xyz"}}}
-  - {"name":"🇰🇷OracleCloudflare0_48Gbps_5","server":"cdn3.xiaokuqwq.xyz","port":8443,"type":"vmess","uuid":"898123df-9e62-4974-be43-a1deeef2b996","0":"undefined","cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn3.xiaokuqwq.xyz"}}}
+  - {"name":"🇰🇷OracleCloudflare0_48Gbps_5","server":"cdn3.xiaokuqwq.xyz","port":8443,"type":"vmess","uuid":"898123df-9e62-4974-be43-a1deeef2b996","alterId":"0","cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"cdn3.xiaokuqwq.xyz"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
