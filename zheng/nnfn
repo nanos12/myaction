@@ -1,0 +1,69 @@
+proxies:
+  - {name:谷歌地球|高速|03(SS)1G带宽原生IP解锁奈飞, server: tw03.170809.xyz, port: 45234, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|03AZ三网优化中转(SS)1G带宽原生IP解锁奈飞, server: az02.170809.xyz, port: 15003, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|04(SS)1G带宽原生IP解锁奈飞, server: tw04.170809.xyz, port: 52339, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|04深港隧道中转(SS)1G带宽原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16004, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|01(SS)1G带宽原生IP解锁奈飞, server: tw01.170809.xyz, port: 4532, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|01深港隧道中转(SS)1G带宽原生IP解锁奈飞, server: azf2s.170809.xyz, port: 16008, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|02(SS)1G带宽原生IP解锁奈飞, server: tw02.170809.xyz, port: 4532, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|02(SS)AZ三网优化中转1G带宽原生IP解锁奈飞, server: azure-f4s-hk-1.forwardserver.xyz, port: 30685, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|03|OC(SS)1G带宽, server: 0a01f3ad01.170809.xyz, port: 3526, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|03|OC(SS)广州移动中转1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 31501, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|04|OC(SS)1G带宽, server: sgmax04.170809.xyz, port: 4622, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|04|OC(SS)广州移动中转1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 49072, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|02|AZ三网优化中转LIN1G带宽(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 46857, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|08|LIN(SS)1G带宽, server: sgmax08.170809.xyz, port: 35232, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|08|AZ三网优化中转LIN(SS)1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 40083, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|07|LIN1G带宽(Trojan), server: sgmax07.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: sgmax07.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|01|AWS(SS)1G带宽, server: in01.170809.xyz, port: 23451, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|01|AWS(SS)1G带宽, server: 054f7f9bc4.170809.xyz, port: 23451, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|01|广州移动中转(SS)1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 48687, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|01|联通AWS(SS)1G带宽, server: jpmax01.170809.xyz, port: 46680, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|01|(SS)1G带宽, server: jp01.170809.xyz, port: 4545, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|01|Trojan1G带宽, server: jp01.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: jp01.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|01|1G带宽, server: jp01.170809.xyz, port: 32446, type: vmess, uuid: c672e452-4464-4d64-bf10-485529381e6b, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: jp01.170809.xyz}}}
+  - {name:谷歌地球|高速|11|AZ(SS), server: hkmax11.170809.xyz, port: 12335, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|13|广州移动中转HGC(SS)1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 42871, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|01|AZ中转HGC(SS)1G带宽, server: azure-f4s-hk-1.forwardserver.xyz, port: 44740, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|01|AZ(SS), server: hkmax01.170809.xyz, port: 4522, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|13|HGC(SS)1G带宽, server: hkmax13.170809.xyz, port: 10237, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|07|AZ三网优化中转HKT(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 46689, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|06|AZ(SS), server: 783af846b4.170809.xyz, port: 45245, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|06|深港隧道中转AZ(SS), server: az02.170809.xyz, port: 15001, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|14|AZ(SS), server: hkmax14.170809.xyz, port: 3456, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|14|深港隧道中转AZ(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 44064, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|08|AZ(Trojan), server: hkmax08.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax08.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|高速|10|AZ(Trojan), server: hkmax10.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax10.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|高速|06|AZ(Trojan), server: hkmax06.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax06.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|高速|03|AZ(Trojan), server: hkmax03.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax03.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|高速|12|AZ(Trojan), server: hkmax12.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax12.170809.xyz, skip-cert-verify: true}
+  - {name:谷歌地球|高速|20|AZ(Trojan), server: hkmax20.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax20.170809.xyz, skip-cert-verify: true}
+  - {name:谷歌地球|高速|21|AZ(Trojan), server: hkmax21.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hkmax21.170809.xyz, skip-cert-verify: true}
+  - {name:谷歌地球|高速|15|AWS(SS), server: hkmax15.170809.xyz, port: 4543, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|16|AWS(SS), server: hkmax16.170809.xyz, port: 45345, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|17|AZ(SS), server: hkmax17.170809.xyz, port: 3421, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|18|AZ(SS), server: hkmax18.170809.xyz, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|19|AZ(SS), server: hkmax19.170809.xyz, port: 2345, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|16|AZ三网优化中转AWS(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 44868, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|15|广州移动中转AZ(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 47231, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|04|AWS(SS), server: hkmax04.170809.xyz, port: 12155, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|05|AZ(SS), server: hkmax05.170809.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|05|AZ三网优化中转AZ(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 39795, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|02|AZ(SS), server: hkmax02.170809.xyz, port: 3572, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|02|移动中转AZ(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 48603, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|02|RN(SS), server: us02.170809.xyz, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|03|RN(SS), server: us03.170809.xyz, port: 34218, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|高速|05|AZ三网优化中转RN(SS), server: az01.170809.xyz, port: 12006, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|06|AWS(SS), server: sgmax06.170809.xyz, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|06|广州移动中转AWS(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 31989, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|03|LINTrojan, server: jp03.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: jp03.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|CMI01|原生IP(SS), server: hkcmi01.170809.xyz, port: 3625, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|CMI02|原生IP(SS), server: hkcmi02.170809.xyz, port: 42717, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|09|AZ(SS), server: hkmax09.170809.xyz, port: 8081, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|10|AZ(SS), server: hk10.170809.xyz, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|11|AZ(SS), server: hk11.170809.xyz, port: 796, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|12|AZ(Trojan), server: hk12.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hk12.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|13|AWS(Trojan), server: hk13.170809.xyz, port: 444, type: trojan, password: c672e452-4464-4d64-bf10-485529381e6b, sni: hk13.170809.xyz, skip-cert-verify: false}
+  - {name:谷歌地球|14|AZ(SS), server: hk14.170809.xyz, port: 444, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|15|AZ(SS), server: hk15.170809.xyz, port: 46676, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
+  - {name:谷歌地球|16|AZ优化中转AWS(SS), server: azure-f4s-hk-1.forwardserver.xyz, port: 35697, type: ss, cipher: chacha20-ietf-poly1305, password: c672e452-4464-4d64-bf10-485529381e6b}
