@@ -1,4 +1,5 @@
 proxies:
   - {name: London-Linode, server: 109.74.194.189, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true}
   - {name: Tokyo-Kddi, server: 106.180.225.69, port: 1443, type: trojan, password: 7x42LetRa0, skip-cert-verify: true}
+  - {name: 🇸🇬2940, server: 120.232.215.137, port: 12940, type: vmess, uuid: 8820142b-516c-3521-982b-e7fe28d85de3, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /sy666666, headers: {Host: "%7B%7D"}}}
   
