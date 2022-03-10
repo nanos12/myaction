@@ -1,0 +1,22 @@
+proxies:
+  - {"name":"Trojan-新加坡01(Trojan Singapore01)","type":"trojan","server":"tj-sg01.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-sg01.yiyodns.xyz"}
+  - {"name":"Trojan-新加坡02(Trojan Singapore02)","type":"trojan","server":"tj-sg02.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-sg02.yiyodns.xyz"}
+  - {"name":"Trojan-日本01(Trojan Japan01)","type":"trojan","server":"tj-jp01.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-jp01.yiyodns.xyz"}
+  - {"name":"Trojan-日本02(Trojan Japan02)","type":"trojan","server":"tj-jp02.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-jp02.yiyodns.xyz"}
+  - {"name":"Trojan-美国01(Trojan USA01)","type":"trojan","server":"tj-us01.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-us01.yiyodns.xyz"}
+  - {"name":"Trojan-美国02(Trojan USA02)","type":"trojan","server":"tj-us02.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-us02.yiyodns.xyz"}
+  - {"name":"Trojan-香港01(Trojan HongKong01)","type":"trojan","server":"tj-hk01.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk01.yiyodns.xyz"}
+  - {"name":"Trojan-香港02(Trojan HongKong02)","type":"trojan","server":"tj-hk02.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk02.yiyodns.xyz"}
+  - {"name":"Trojan-香港03(Trojan HongKong03)","type":"trojan","server":"tj-hk03.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk03.yiyodns.xyz"}
+  - {"name":"Trojan-香港04(Trojan HongKong04)","type":"trojan","server":"tj-hk04.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk04.yiyodns.xyz"}
+  - {"name":"Trojan-香港05(Trojan HongKong05)","type":"trojan","server":"tj-hk05.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk05.yiyodns.xyz"}
+  - {"name":"Trojan-香港06(Trojan HongKong06)","type":"trojan","server":"tj-hk06.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk06.yiyodns.xyz"}
+  - {"name":"Trojan-香港07(Trojan HongKong07)","type":"trojan","server":"tj-hk07.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk07.yiyodns.xyz"}
+  - {"name":"Trojan-香港08(Trojan HongKong08)","type":"trojan","server":"tj-hk08.yiyodns.xyz","port":443,"password":"88888888-9ff9-3b11-953d-1731035e03ce","sni":"tj-hk08.yiyodns.xyz"}
+  - {"name":"V2Ray-新加坡01(V2Ray Singapore01)","type":"vmess","server":"v2-sg01.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-sg01.yiyodns.xyz"},"tls":true}
+  - {"name":"V2Ray-新加坡02(V2Ray Singapore02)","type":"vmess","server":"v2-sg02.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-sg02.yiyodns.xyz"},"tls":true}
+  - {"name":"V2Ray-日本01(V2Ray Japan01)","type":"vmess","server":"v2-jp01.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-jp01.yiyodns.xyz"},"tls":true}
+  - {"name":"V2Ray-日本02(V2Ray Japan02)","type":"vmess","server":"v2-jp02.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-jp02.yiyodns.xyz"},"tls":true}
+  - {"name":"V2Ray-香港01(V2Ray HongKong01)","type":"vmess","server":"v2-hk01.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-hk01.yiyodns.xyz"},"tls":true}
+  - {"name":"V2Ray-香港02(V2Ray HongKong02)","type":"vmess","server":"v2-hk02.yiyodns.xyz","port":443,"uuid":"88888888-9ff9-3b11-953d-1731035e03ce","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/","ws-headers":{"Host":"v2-hk02.yiyodns.xyz"},"tls":true}
+ 
