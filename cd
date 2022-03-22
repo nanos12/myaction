@@ -1,0 +1,20 @@
+Proxy:
+- { name: "HK-HKT-01",type: vmess,server: hka.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "HK-WTT",type: vmess,server: hk.b.cloudv2.top,port: 8882,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "HK-HKT-02",type: vmess,server: hkc.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "JP-Linode-01",type: vmess,server: jpa.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "JP-NTT-01",type: vmess,server: jpb.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "JP-Sakura-03",type: vmess,server: jp.c.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "JP-IIJ",type: vmess,server: jpd.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "JP-IDCF",type: vmess,server: jpe.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "US-GIA",type: vmess,server: us.a.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "US-QN",type: vmess,server: us.b.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "US-NCP",type: vmess,server: us.c.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "US-GT",type: vmess,server: usd.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "SG-LN",type: vmess,server: sg.a.cloudv2.top,port: 8881,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "SG-DO",type: vmess,server: sgb.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "TW-Hinet",type: vmess,server: twa.cloudv2.top,port: 8883,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "KR-KT",type: vmess,server: kra.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "KR-SK",type: vmess,server: krb.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
+- { name: "MO-Mtel",type: vmess,server: mo.a.cloudv2.top,port: 8882,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto}
+- { name: "RU-Novo",type: vmess,server: rua.cloudv2.top,port: 443,uuid: CC8A03EC-A9E8-18C0-302E-ABCAD4A6747E,alterId: 0,cipher: auto, network: ws, ws-path: /ray, tls: true}
