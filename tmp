@@ -1,0 +1,14 @@
+proxies:
+  - {name: 🇭🇰 V1 | HK IEPL Game | sup, server: x5.gotout.work, port: 11349, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇭🇰 V2 IEPL Game | HK1, server: x.gotout.work, port: 30011, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇭🇰 V2 IEPL Game | HK2, server: x.gotout.work, port: 30012, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇯🇵 V2 IEPL Game | JP1, server: x.gotout.work, port: 30031, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇰🇷 V2 IEPL Game | KR1, server: x.gotout.work, port: 30051, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇸🇬 V2 IEPL Game | SG1, server: x.gotout.work, port: 30041, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇨🇳 V2 IEPL Game | TW1, server: x.gotout.work, port: 30021, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇺🇸 V2 IPLC Game | US1, server: x.gotout.work, port: 30061, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇭🇰 V3 IEPL BGP Game | HK1, server: x-mm.gotout.work, port: 30511, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇯🇵 V3 IEPL BGP Game | JP1, server: x-mm.gotout.work, port: 30531, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇰🇷 V3 IEPL BGP Game | KR1, server: x-mm.gotout.work, port: 30551, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇨🇳 V3 IEPL BGP Game | TW1, server: x-mm.gotout.work, port: 30521, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
+  - {name: 🇺🇸 V3 IEPL BGP Game | US1 GIA x10, server: x-mm.gotout.work, port: 30561, type: ss, cipher: aes-256-gcm, password: 0oucakeunom9}
