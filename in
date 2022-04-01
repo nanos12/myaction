@@ -1,21 +1,5 @@
 proxies:
   - {
-  name: "IDLB", 
-  server: id-lb.sshkit.org, 
-  port: 443, 
-  type: vmess, 
-  uuid: 6fea1649-425b-4092-bf53-29792152c925, 
-  sni: m.muscdn.com, 
-  alterId: 0, 
-  cipher: auto, 
-  tls: true, 
-  skip-cert-verify: true, 
-  udp: true, 
-  network: ws, 
-  ws-opts: {path: /sshkit/aksjhdaksb/622e27dfd013b/, 
-  headers: {Host: m.muscdn.com}}}
-
-  - {
   name: "SG1", 
   server: sg5-v2ray.sshkit.org, 
   port: 443, 
@@ -45,8 +29,6 @@ proxies:
   network: ws, 
   ws-opts: {path: /sshkit/1322318524/622700bd813b1/, 
   headers: {Host: m.muscdn.com}}}
-  - {name: SINGAPORE, server: sg-lb.sshkit.org, port: 443, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, sni: api2-t3.musical.ly, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /sshkit/6666/623bbc25d0cb1/, headers: {Host: api2-t3.musical.ly}}}
-  - {name: INDONESIA, server: id-lb.sshkit.org, port: 443, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, sni: api2-t3.musical.ly, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true, network: ws, ws-opts: {path: /sshkit/66667/623bbbe7ac782/, headers: {Host: api2-t3.musical.ly}}}
   - {name: PROXY 1, server: trojan3.bonds.id, port: 443, udp: true, type: trojan, password: cd4e04b0-ad10-11ec-9bd4-1239d0255272, sni: api2-t3.musical.ly, skip-cert-verify: true}
   - {name: PROXY 2, server: trojan3.bonds.id, port: 443, udp: true, type: trojan, password: d7a80e30-ad10-11ec-91d2-1239d0255272, sni: api2-t3.musical.ly, skip-cert-verify: true}
 
