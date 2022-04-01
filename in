@@ -1,4 +1,20 @@
 proxies:
+  - name: id-lb.sshkit.org
+    server: id-lb.sshkit.org
+    port: 443
+    type: vmess
+    uuid: 6fea1649-425b-4092-bf53-29792152c925
+    alterId: 0
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: m.musical.ly
+    network: ws
+    ws-opts:
+      path: /sshkit/Hsksoo/62441b173698b/
+      headers:
+        Host: m.musical.ly
+    udp: true
   - {
   name: "SG1", 
   server: sg5-v2ray.sshkit.org, 
