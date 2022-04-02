@@ -1,31 +1,30 @@
 proxies:
   - name: LAX-QuadraNet
-  type: snell
-  server: sha.diao.jimosaofu.xyz
-  port: 22053
-  psk: WoHaoKuaiLeA
-  version: 3
-  obfs-opts:
-    mode: tls
-    host: mirrorn.centos.org
+    type: snell
+    server: sha.diao.jimosaofu.xyz
+    port: 22053
+    psk: WoHaoKuaiLeA
+    version: 3
+    obfs-opts:
+      mode: tls
+      host: mirrorn.centos.org
   - name: LAX-Hammar
-  type: snell
-  server: sha.bi.jimosaofu.xyz
-  port: 22053
-  psk: WoHaoKuaiLeA
-  version: 3
-  obfs-opts:
+    type: snell
+    server: sha.bi.jimosaofu.xyz
+    port: 22053
+    psk: WoHaoKuaiLeA
+    version: 3
+    obfs-opts:
     mode: tls
-    host: mirrorn.centos.org
+      host: mirrorn.centos.org
   - name: "⛅SNELL-MLBB"
-  type: snell
-  server: tunnel.hostip.co
-  port: 12345
-  psk: wOOPnkk38f8UKZu92Dz2XC5rFB58A5M
-  obfs-opts:
-    mode: http
-    host: m.mobilelegends.com
-
+    type: snell
+    server: tunnel.hostip.co
+    port: 12345
+    psk: wOOPnkk38f8UKZu92Dz2XC5rFB58A5M
+    obfs-opts:
+      mode: http
+      host: m.mobilelegends.com
   - name: "🇺🇸US洛杉矶"
     type: snell
     server: cnm.jimosaofu.xyz
@@ -33,5 +32,5 @@ proxies:
     psk: WoHaoKuaiLeA
     version: 3
     obfs-opts:
-        mode: tls
-       #host: www.speedtest.net
+      mode: tls
+      host: www.speedtest.net
