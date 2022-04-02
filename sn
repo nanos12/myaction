@@ -15,7 +15,7 @@ proxies:
     psk: WoHaoKuaiLeA
     version: 3
     obfs-opts:
-    mode: tls
+      mode: tls
       host: mirrorn.centos.org
   - name: "⛅SNELL-MLBB"
     type: snell
