@@ -25,3 +25,13 @@ proxies:
   obfs-opts:
     mode: http
     host: m.mobilelegends.com
+
+- name: "🇺🇸US洛杉矶"
+    type: snell
+    server: cnm.jimosaofu.xyz
+    port: 22053
+    psk: WoHaoKuaiLeA
+    version: 3
+    obfs-opts:
+        mode: tls
+       #host: www.speedtest.net
