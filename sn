@@ -34,3 +34,12 @@ proxies:
     obfs-opts:
       mode: tls
       host: www.speedtest.net
+  - name: "🇸🇬新加坡"
+    type: snell
+    server: shuazi.jimosaofu.xyz
+    port: 22053
+    psk: WoHaoKuaiLeA65536
+    version: 3
+    obfs-opts:
+        mode: tls
+       #host: www.speedtest.net
