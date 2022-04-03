@@ -4,7 +4,7 @@ proxies:
     server: sha.diao.jimosaofu.xyz
     port: 22053
     psk: WoHaoKuaiLeA
-    version: 3
+    #version: 3
     obfs-opts:
       mode: tls
       host: mirrorn.centos.org
@@ -13,7 +13,7 @@ proxies:
     server: sha.bi.jimosaofu.xyz
     port: 22053
     psk: WoHaoKuaiLeA
-    version: 3
+    #version: 3
     obfs-opts:
       mode: tls
       host: mirrorn.centos.org
@@ -30,16 +30,16 @@ proxies:
     server: cnm.jimosaofu.xyz
     port: 22053
     psk: WoHaoKuaiLeA
-    version: 3
+    #version: 3
     obfs-opts:
       mode: tls
-      host: www.speedtest.net
+      #host: www.speedtest.net
   - name: "🇸🇬新加坡"
     type: snell
     server: shuazi.jimosaofu.xyz
     port: 22053
     psk: WoHaoKuaiLeA65536
-    version: 3
+    #version: 3
     obfs-opts:
         mode: tls
        #host: www.speedtest.net
