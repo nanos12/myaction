@@ -1,210 +1,210 @@
 proxies:
-  - {name: AVE_1, server: ca01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_2, server: ca02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_3, server: ca03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_4, server: ca04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_5, server: ca05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_6, server: in01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_7, server: in02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_8, server: in03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_9, server: in04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_10, server: in05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_11, server: in06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_12, server: in07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_13, server: in08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_14, server: tw02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_15, server: tw03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_16, server: tw04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_17, server: tw05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_18, server: tw06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_19, server: tw07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_20, server: tw09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_21, server: tw11.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_22, server: tw12.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_23, server: tw14.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_24, server: tw15.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_25, server: tw16.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_26, server: tw17.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_27, server: tw18.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_28, server: tw20.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_29, server: tw21.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_30, server: tw22.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_31, server: tw23.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_32, server: tw24.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_33, server: tw25.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_34, server: tw26.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_35, server: tw27.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_36, server: tw28.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_37, server: tw29.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_38, server: tw30.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_39, server: jp04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_40, server: jp05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_41, server: jp06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_42, server: jp08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_43, server: jp09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_44, server: jp10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_45, server: jp11.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_46, server: jp13.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_47, server: jp14.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_48, server: jp15.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_49, server: jp16.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_50, server: jp17.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_51, server: fr01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_52, server: fr02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_53, server: fr03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_54, server: fr04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_55, server: fr05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_56, server: au01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_57, server: au02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_58, server: au03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_59, server: au04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_60, server: au05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_61, server: ir01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_62, server: ir02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_63, server: ir03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_64, server: ir04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_65, server: ir05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_66, server: uk01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_67, server: uk02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_68, server: uk03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_69, server: uk04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_70, server: uk05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_71, server: uk06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_72, server: kr01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_73, server: kr02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_74, server: kr03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_75, server: kr04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_76, server: kr05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_77, server: kr06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_78, server: kr07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_79, server: kr08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_80, server: kr09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_81, server: kr10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_82, server: hk21.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_83, server: hk22.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_84, server: hk23.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_85, server: hk24.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_86, server: hk25.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_87, server: hk26.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_88, server: hk27.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_89, server: hk28.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_90, server: hk29.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_91, server: hk30.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_92, server: hk31.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_93, server: hk32.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_94, server: hk33.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_95, server: hk34.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_96, server: hk35.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_97, server: hk36.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_98, server: hk37.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_99, server: hk38.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_100, server: hk39.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_101, server: hk40.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_102, server: hk01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_103, server: hk02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_104, server: hk03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_105, server: hk04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_106, server: hk05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_107, server: hk06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_108, server: hk07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_109, server: hk08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_110, server: hk09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_111, server: hk10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_112, server: hk11.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_113, server: hk12.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_114, server: hk13.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_115, server: hk14.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_116, server: hk15.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_117, server: hk16.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_118, server: hk17.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_119, server: hk18.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_120, server: hk19.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_121, server: hk20.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_122, server: ru04.serenazuma.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_123, server: sgp01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_124, server: sgp03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_125, server: sgp04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_126, server: sgp06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_127, server: sgp07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_128, server: sgp09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_129, server: sgp10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_130, server: jp31.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_131, server: jp32.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_132, server: jp33.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_133, server: jp34.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_134, server: jp35.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_135, server: jp36.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_136, server: jp37.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_137, server: jp38.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_138, server: jp39.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_139, server: jp40.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_140, server: jp41.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_141, server: jp42.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_142, server: jp43.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_143, server: jp44.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_144, server: jp45.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_145, server: jp46.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_146, server: jp47.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_147, server: jp48.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_148, server: jp19.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_149, server: jp20.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_150, server: jp21.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_151, server: jp22.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_152, server: jp23.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_153, server: jp24.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_154, server: jp25.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_155, server: jp26.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_156, server: jp27.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_157, server: jp28.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_158, server: jp29.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_159, server: jp30.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_160, server: 41.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_161, server: 42.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_162, server: 43.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_163, server: 44.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_164, server: 45.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_165, server: 46.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_166, server: 47.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_167, server: 48.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_168, server: 49.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_169, server: 50.sapphirerapids.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_170, server: us06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_171, server: us07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_172, server: us08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_173, server: us09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_174, server: us10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_175, server: us01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_176, server: us02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_177, server: us03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_178, server: us04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_179, server: us05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_180, server: kr11.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_181, server: kr12.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_182, server: kr13.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_183, server: kr14.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_184, server: kr15.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_185, server: kr16.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_186, server: kr17.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_187, server: kr18.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_188, server: kr19.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_189, server: kr20.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_190, server: hkt01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_191, server: hkt02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_192, server: hkt03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_193, server: hkt04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_194, server: hkt05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_195, server: hkt06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_196, server: hkt07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_197, server: hkt08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_198, server: hkt09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_199, server: hkt10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_200, server: hkbn01.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_201, server: hkbn02.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_202, server: hkbn03.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_203, server: hkbn04.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_204, server: hkbn05.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_205, server: hkbn06.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_206, server: hkbn07.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_207, server: hkbn08.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_208, server: hkbn09.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
-  - {name: AVE_209, server: hkbn10.advancedvectorextensions.com, port: 14328, type: ss, cipher: rc4-md5, password: 2mxa6ywulnn}
+  - {name: AVE_1, server: ca01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_2, server: ca02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_3, server: ca03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_4, server: ca04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_5, server: ca05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_6, server: in01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_7, server: in02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_8, server: in03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_9, server: in04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_10, server: in05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_11, server: in06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_12, server: in07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_13, server: in08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_14, server: tw02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_15, server: tw03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_16, server: tw04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_17, server: tw05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_18, server: tw06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_19, server: tw07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_20, server: tw09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_21, server: tw11.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_22, server: tw12.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_23, server: tw14.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_24, server: tw15.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_25, server: tw16.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_26, server: tw17.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_27, server: tw18.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_28, server: tw20.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_29, server: tw21.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_30, server: tw22.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_31, server: tw23.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_32, server: tw24.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_33, server: tw25.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_34, server: tw26.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_35, server: tw27.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_36, server: tw28.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_37, server: tw29.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_38, server: tw30.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_39, server: jp04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_40, server: jp05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_41, server: jp06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_42, server: jp08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_43, server: jp09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_44, server: jp10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_45, server: jp11.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_46, server: jp13.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_47, server: jp14.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_48, server: jp15.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_49, server: jp16.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_50, server: jp17.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_51, server: fr01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_52, server: fr02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_53, server: fr03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_54, server: fr04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_55, server: fr05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_56, server: au01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_57, server: au02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_58, server: au03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_59, server: au04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_60, server: au05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_61, server: ir01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_62, server: ir02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_63, server: ir03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_64, server: ir04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_65, server: ir05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_66, server: uk01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_67, server: uk02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_68, server: uk03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_69, server: uk04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_70, server: uk05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_71, server: uk06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_72, server: kr01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_73, server: kr02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_74, server: kr03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_75, server: kr04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_76, server: kr05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_77, server: kr06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_78, server: kr07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_79, server: kr08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_80, server: kr09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_81, server: kr10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_82, server: hk21.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_83, server: hk22.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_84, server: hk23.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_85, server: hk24.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_86, server: hk25.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_87, server: hk26.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_88, server: hk27.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_89, server: hk28.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_90, server: hk29.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_91, server: hk30.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_92, server: hk31.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_93, server: hk32.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_94, server: hk33.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_95, server: hk34.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_96, server: hk35.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_97, server: hk36.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_98, server: hk37.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_99, server: hk38.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_100, server: hk39.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_101, server: hk40.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_102, server: hk01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_103, server: hk02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_104, server: hk03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_105, server: hk04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_106, server: hk05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_107, server: hk06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_108, server: hk07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_109, server: hk08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_110, server: hk09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_111, server: hk10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_112, server: hk11.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_113, server: hk12.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_114, server: hk13.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_115, server: hk14.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_116, server: hk15.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_117, server: hk16.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_118, server: hk17.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_119, server: hk18.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_120, server: hk19.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_121, server: hk20.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_122, server: ru04.serenazuma.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_123, server: sgp01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_124, server: sgp03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_125, server: sgp04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_126, server: sgp06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_127, server: sgp07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_128, server: sgp09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_129, server: sgp10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_130, server: jp31.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_131, server: jp32.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_132, server: jp33.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_133, server: jp34.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_134, server: jp35.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_135, server: jp36.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_136, server: jp37.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_137, server: jp38.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_138, server: jp39.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_139, server: jp40.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_140, server: jp41.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_141, server: jp42.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_142, server: jp43.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_143, server: jp44.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_144, server: jp45.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_145, server: jp46.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_146, server: jp47.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_147, server: jp48.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_148, server: jp19.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_149, server: jp20.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_150, server: jp21.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_151, server: jp22.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_152, server: jp23.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_153, server: jp24.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_154, server: jp25.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_155, server: jp26.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_156, server: jp27.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_157, server: jp28.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_158, server: jp29.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_159, server: jp30.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_160, server: 41.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_161, server: 42.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_162, server: 43.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_163, server: 44.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_164, server: 45.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_165, server: 46.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_166, server: 47.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_167, server: 48.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_168, server: 49.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_169, server: 50.sapphirerapids.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_170, server: us06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_171, server: us07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_172, server: us08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_173, server: us09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_174, server: us10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_175, server: us01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_176, server: us02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_177, server: us03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_178, server: us04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_179, server: us05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_180, server: kr11.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_181, server: kr12.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_182, server: kr13.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_183, server: kr14.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_184, server: kr15.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_185, server: kr16.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_186, server: kr17.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_187, server: kr18.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_188, server: kr19.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_189, server: kr20.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_190, server: hkt01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_191, server: hkt02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_192, server: hkt03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_193, server: hkt04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_194, server: hkt05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_195, server: hkt06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_196, server: hkt07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_197, server: hkt08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_198, server: hkt09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_199, server: hkt10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_200, server: hkbn01.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_201, server: hkbn02.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_202, server: hkbn03.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_203, server: hkbn04.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_204, server: hkbn05.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_205, server: hkbn06.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_206, server: hkbn07.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_207, server: hkbn08.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_208, server: hkbn09.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
+  - {name: AVE_209, server: hkbn10.advancedvectorextensions.com, port: 18788, type: ssr, cipher: rc4-md5, password: 2mxa6ywulnn, protocol: origin, obfs: http_simple, protocol-param: "", obfs-param: download.windowsupdate.com}
