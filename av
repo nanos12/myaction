@@ -1,1 +1,4 @@
-shadowsocks=hkt09.advancedvectorextensions.com:18788, method=rc4-md5, password=2mxa6ywulnn, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰
+shadowsocks=csdynhkt.proconcn.xyz:560, method=chacha20-ietf, password=mblank1port, ssr-protocol=auth_aes128_md5, ssr-protocol-param=52794:123456, fast-open=false, udp-relay=false, tag=🇭🇰香港胜天大佬1
+shadowsocks=ieplszhk-sz.qqgg.work:50804, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=🇭🇰香港iepl胜天大佬2
+shadowsocks=hkt09.advancedvectorextensions.com:18788, method=rc4-md5, password=2mxa6ywulnn, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰香港胜天大佬3
+shadowsocks=101.32.46.127:60086, method=none, password=305904seal, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇭🇰腾讯云香港胜天大佬4
