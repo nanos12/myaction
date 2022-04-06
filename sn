@@ -45,3 +45,32 @@ proxies:
         mode: tls
        #host: www.speedtest.net
         host: mirrorn.centos.org
+  -
+    name: '🇺🇸美国'
+    type: snell
+    server: 54.185.94.141
+    port: 15328
+    psk: y1lvuLvIjBpNvPSgM7bPaPw54nMJkRx
+    obfs-opts:
+      mode: http # 或 tls
+      host: snowail.me
+
+  -
+    name: '🇭🇰香港'
+    type: snell
+    server: 35.215.187.238
+    port: 19239
+    psk: tMXiGfer7BgfRr1OW17rmlWOwTjcB9t
+    obfs-opts:
+      mode: http # 或 tls
+      host: snowail.me
+
+  -
+    name: '🇯🇵日本'
+    type: snell
+    server: 140.238.57.74
+    port: 23465
+    psk: a1h9p982kyHVcyLXnbeISod3kskt5XS
+    obfs-opts:
+      mode: http # 或 tls
+      host: snowail.me
