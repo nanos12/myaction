@@ -1,0 +1,7 @@
+proxies:
+  - {name: Lv2 BGP 中继 台湾A, server: dghk.rdns.link, port: 32101, type: ssr, cipher: aes-256-cfb, password: adsl.cloud, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3664:tDEFYL, obfs-param: f78013664.software-download.microsoft.com, udp: true}
+  - {name: Lv2 BGP 中继 台湾B, server: dghk.rdns.link, port: 32101, type: ssr, cipher: aes-256-cfb, password: adsl.cloud, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3664:tDEFYL, obfs-param: f78013664.software-download.microsoft.com, udp: true}
+  - {name: Lv2 BGP 中继 台湾C, server: dghk.rdns.link, port: 32101, type: ssr, cipher: aes-256-cfb, password: adsl.cloud, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3664:tDEFYL, obfs-param: f78013664.software-download.microsoft.com, udp: true}
+  - {name: Lv2 BGP 中继 美国A, server: dghk.rdns.link, port: 32102, type: ssr, cipher: aes-256-cfb, password: adsl.cloud, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3664:tDEFYL, obfs-param: f78013664.software-download.microsoft.com, udp: true}
+  - {name: Lv2 BGP 中继 香港B, server: dghk.rdns.link, port: 32103, type: ssr, cipher: aes-256-cfb, password: adsl.cloud, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 3664:tDEFYL, obfs-param: f78013664.software-download.microsoft.com, udp: true}
+  
