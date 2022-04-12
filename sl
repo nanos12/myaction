@@ -1,0 +1,17 @@
+proxies:
+    - { name: '防失联官网: hashvpn.github.io', type: ss, server: hk1.auto.starlink.st, port: 40000, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 香港1-IPLC, type: ss, server: cn1.relay.starlink.st, port: 40101, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 香港2-IPLC, type: ss, server: cn1.relay.starlink.st, port: 40102, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 香港3-IPLC, type: ss, server: cn1.relay.starlink.st, port: 40103, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 香港4-IPLC, type: ss, server: cn1.relay.starlink.st, port: 40104, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 台湾1-IPLC, type: ss, server: cn1.relay.starlink.st, port: 40201, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 香港5-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40105, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 台湾2-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40202, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 日本1-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40301, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 日本2-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40302, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 日本3-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40303, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 韩国1-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40401, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 新加坡-奈飞专用（禁止BT下载）, type: ss, server: cn3.relay.starlink.st, port: 40501, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 美国-IPLC-解奈飞专用, type: ss, server: cn3.relay.starlink.st, port: 40601, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 美国2-解奈飞专用, type: ss, server: cn1.relay.starlink.st, port: 40602, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
+    - { name: 俄罗斯-IPLC, type: ss, server: cn3.relay.starlink.st, port: 40701, cipher: aes-128-gcm, password: aa504504-047c-4e9e-84ce-86f2519a792f, udp: true }
