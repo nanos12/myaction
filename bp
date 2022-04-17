@@ -4,4 +4,4 @@ shadowsocks=173.82.226.134:60001, method=none, password=enter, ssr-protocol=auth
 shadowsocks=173.82.245.228:60000, method=none, password=libev, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国4
 shadowsocks=38.143.9.185:10656, method=none, password=teddysun.com, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=美国6
 shadowsocks=101.32.46.127:60086, method=none, password=305904seal, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=香港4
-shadowsocks=45.142.157.69:40002, method=none, password=sealplus001, ssr-protocol=auth_chain_a, fast-open=false, udp-relay=false, tag=🇺🇸CN2GIA_SSR
+shadowsocks=45.142.157.69:40002, method=none, password=sealplus001, ssr-protocol=auth_chain_a, obfs=plain, fast-open=false, udp-relay=false, tag=🇺🇸CN2GIA_SSR
