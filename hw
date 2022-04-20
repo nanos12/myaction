@@ -1,0 +1,183 @@
+proxies:
+    - { name: '香港 01丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12022, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 02丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12023, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 03丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12024, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 04丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12025, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 05丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12026, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 06丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12027, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 07丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12028, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 08丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12029, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 09丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12030, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 10丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12031, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 11丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12032, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 12丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12033, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 13丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12721, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港 14丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12722, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港商宽丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12405, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '香港家宽丨1x HK', type: ss, server: activity.huawei.daanyht.com, port: 12729, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳门商宽丨2x MO', type: ss, server: activity.huawei.daanyht.com, port: 12730, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳门家宽丨3x MO', type: ss, server: activity.huawei.daanyht.com, port: 50227, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 01丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12304, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 02丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12305, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 03丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12306, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 04丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12307, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 05丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12308, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 06丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12309, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 07丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12310, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 08丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12311, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 09丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12412, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 10丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12413, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 11丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12414, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 12丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12415, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 13丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12416, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 14丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12417, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 15丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12418, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '台湾 16丨1x TW', type: ss, server: activity.huawei.daanyht.com, port: 12419, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 01丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12000, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 02丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12001, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 03丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12002, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 04丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12003, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 05丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12004, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 06丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12005, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 07丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12006, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 08丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12007, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 09丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12009, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 10丨1x SG', type: ss, server: activity.huawei.daanyht.com, port: 12008, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 11丨2x SG', type: ss, server: activity.huawei.daanyht.com, port: 12110, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡 12丨3x SG', type: ss, server: activity.huawei.daanyht.com, port: 12111, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡商宽丨3x SG', type: ss, server: activity.huawei.daanyht.com, port: 12728, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新加坡家宽丨3x SG', type: ss, server: activity.huawei.daanyht.com, port: 12726, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚 01丨1x MY', type: ss, server: activity.huawei.daanyht.com, port: 12321, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚 02丨1x MY', type: ss, server: activity.huawei.daanyht.com, port: 12322, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚 03丨1x MY', type: ss, server: activity.huawei.daanyht.com, port: 12323, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚 04丨1x MY', type: ss, server: activity.huawei.daanyht.com, port: 13031, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚 05丨1x MY', type: ss, server: activity.huawei.daanyht.com, port: 12723, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马来西亚家宽丨3x MY', type: ss, server: activity.huawei.daanyht.com, port: 12727, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '泰国 01丨1x TH', type: ss, server: activity.huawei.daanyht.com, port: 12313, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '泰国 02丨1x TH', type: ss, server: activity.huawei.daanyht.com, port: 12314, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 01丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12011, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 02丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12010, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 03丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12012, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 04丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12013, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 05丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12014, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 06丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12015, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 07丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12016, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 08丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12017, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 09丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12018, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 10丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12019, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 11丨2x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13019, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 12丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13022, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 13丨1x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13021, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 14丨3x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13018, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 15丨3x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13026, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 16丨3x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13023, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 17丨3x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13020, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '日本 18丨3x JP', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13100, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '韩国 01丨3x KR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12317, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '韩国 02丨3x KR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12318, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '韩国 04丨3x KR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12320, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '韩国 05丨1x KR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12800, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '越南丨1x VN', type: ss, server: activity.huawei.daanyht.com, port: 12316, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '越南家宽丨3x VN', type: ss, server: activity.huawei.daanyht.com, port: 12700, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '菲律宾 01丨1x PH', type: ss, server: activity.huawei.daanyht.com, port: 12020, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '菲律宾 02丨1x PH', type: ss, server: activity.huawei.daanyht.com, port: 12021, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '菲律宾 03丨1x PH', type: ss, server: activity.huawei.daanyht.com, port: 12404, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '印尼-棉兰丨1x ID', type: ss, server: activity.huawei.daanyht.com, port: 12300, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '印尼-雅加达丨1x ID', type: ss, server: activity.huawei.daanyht.com, port: 12301, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '柬埔寨丨3x KH', type: ss, server: activity.huawei.daanyht.com, port: 12701, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '印度-孟买丨1x IN', type: ss, server: activity.huawei.daanyht.com, port: 12302, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '印度-新德里丨1x IN', type: ss, server: activity.huawei.daanyht.com, port: 12303, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '约旦丨2x JO', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12708, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '伊朗丨5x IR', type: ss, server: activity.huawei.daanyht.com, port: 12707, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '以色列丨1x IL', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12600, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '土耳其 01丨1x TR', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12603, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '土耳其 02丨1x TR', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12655, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '尼泊尔丨1x NP', type: ss, server: activity.huawei.daanyht.com, port: 12720, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '孟加拉丨2x BD', type: ss, server: activity.huawei.daanyht.com, port: 12724, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '阿联酋丨3x AE', type: ss, server: activity.huawei.daanyht.com, port: 12400, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '阿塞拜疆丨1x AZ', type: ss, server: activity.huawei.daanyht.com, port: 12606, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '格鲁吉亚丨1x GE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12644, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '巴基斯坦 02丨5x PK', type: ss, server: activity.huawei.daanyht.com, port: 12605, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '沙特阿拉伯丨3x SA', type: ss, server: activity.huawei.daanyht.com, port: 13032, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '哈萨克斯坦丨1x KZ', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12602, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '吉尔吉斯斯坦丨1x KG', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12717, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳大利亚-悉尼丨2x AU', type: ss, server: activity.huawei.daanyht.com, port: 12324, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳大利亚-珀斯丨2x AU', type: ss, server: activity.huawei.daanyht.com, port: 12402, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳大利亚-墨尔本丨2x AU', type: ss, server: activity.huawei.daanyht.com, port: 12401, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳大利亚-布里斯班丨2x AU', type: ss, server: activity.huawei.daanyht.com, port: 12325, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '澳大利亚-阿德莱德丨2x AU', type: ss, server: activity.huawei.daanyht.com, port: 12403, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '新西兰丨3x NZ', type: ss, server: activity.huawei.daanyht.com, port: 12326, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '法国丨1x FR', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12621, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '英国-伦敦丨1x GB', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12710, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '英国-梅登黑德丨2x GB', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12470, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '英国-伍尔弗汉普顿丨1x GB', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12266, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '英国家宽丨3x GB', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12640, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '马恩岛丨2x IM', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12623, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '德国 01丨1x DE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12619, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '德国 02丨1x DE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12620, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '丹麦丨1x DK', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12608, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '挪威丨1x NO', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12610, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '瑞典丨1x SE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12611, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '芬兰丨2x FI', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12609, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '冰岛丨2x IS', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12607, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '瑞士丨2x CH', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12630, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '捷克丨1x CZ', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12613, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '希腊丨2x GR', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12615, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '荷兰丨1x NL', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12622, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '波兰丨1x PL', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12261, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '俄罗斯-莫斯科丨1x RU', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12034, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '俄罗斯-库页岛丨1x RU', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12327, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '乌克兰丨1x UA', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12614, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '匈牙利丨1x HU', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12631, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '卢森堡丨2x LU', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12629, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '奥地利丨2x AT', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12628, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '意大利丨1x IT', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12616, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '比利时丨1x BE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12618, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '爱尔兰丨2x IE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12617, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '立陶宛丨1x LT', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12652, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '西班牙丨1x ES', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12625, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '葡萄牙丨1x PT', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12624, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '保加利亚丨1x BG', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12634, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '克罗地亚丨2x HR', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12646, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '北马其顿丨2x MK', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12645, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '塞尔维亚丨2x RS', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12647, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '塞浦路斯丨1x CY', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12654, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '拉脱维亚丨1x LV', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12649, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '摩尔多瓦丨2x MD', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12651, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '斯洛伐克丨1x SK', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12650, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '爱沙尼亚丨1x EE', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12635, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '白俄罗斯丨2x BY', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12633, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '罗马尼亚丨1x RO', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12641, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '斯洛文尼亚丨2x SI', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12653, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '阿尔巴尼亚丨1x AL', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12642, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '波黑共和国丨2x BA', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12643, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-费城丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13005, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-纽约丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13006, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-硅谷丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13009, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-洛杉矶丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13007, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-圣何塞丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13008, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-斯波坎丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13010, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-达拉斯丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13011, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-底特律丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12705, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-密尔沃基丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13012, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '美国-圣克拉拉丨1x US', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12706, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '加拿大-多伦多丨1x CA', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13000, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '加拿大-温哥华丨2x CA', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13001, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '加拿大-哈利法克斯丨1x CA', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13002, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '加拿大家宽丨3x CA', type: ss, server: asusjobhr.0064.shuyue521.com, port: 10140, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '墨西哥丨1x MX', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13004, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '巴拿马丨3x PA', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12704, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '哥斯达黎加丨1x CR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12719, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '巴西丨1x BR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13013, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '智利丨2x CL', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13014, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '秘鲁丨5x PE', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13016, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '阿根廷丨5x AR', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13015, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '乌拉圭丨2x UY', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12715, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '哥伦比亚丨1x CO', type: ss, server: asusjobhr.0064.shuyue521.com, port: 13050, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '委内瑞拉丨3x VE', type: ss, server: asusjobhr.0064.shuyue521.com, port: 12720, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '埃及丨3x EG', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12718, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '南非丨1x ZA', type: ss, server: activity.huawei.daanyht.com, port: 12036, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '摩洛哥丨2x MA', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12731, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '突尼斯丨2x TN', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12703, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '肯尼亚丨1x KE', type: ss, server: activity.huawei.daanyht.com, port: 12716, cipher: aes-128-gcm, password: pw000, udp: true }
+    - { name: '尼日利亚丨2x NG', type: ss, server: inspurcloud.api.xjshihuifang.com, port: 12648, cipher: aes-128-gcm, password: pw000, udp: true }
