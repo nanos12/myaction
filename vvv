@@ -1,0 +1,3 @@
+vmess=146.56.175.109:28023, method=aes-128-gcm, password=a65f1b9f-f241-4268-a5e6-1b14dae5d260, fast-open=false, udp-relay=false, aead=true, tag=首尔甲骨文
+
+vmess=47.52.101.237:443, method=aes-128-gcm, password=b0f207b4-4406-46b3-efb1-87288c432de8, obfs=wss, obfs-host=ldsg.fromis.ml, obfs-uri=/flover, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=香港阿里云转新加坡Linode
